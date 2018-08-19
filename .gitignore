@@ -30,3 +30,7 @@ dawginput.raw
 playabilities.raw
 smaller.raw
 DerivedData
+*.pbxproj
+*.xcsettings
+*.mak
+*.xcscheme
